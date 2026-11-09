@@ -1,0 +1,35 @@
+{ 
+ box-sizing: border-box;   
+}
+body {
+    font-family: "segoe UI", roboto, sans-serif;
+    margin: 0;
+    background:lawngreen;
+    color:black
+}
+header {
+    background: linear-gradient(120deg, #ff9900, #ebf1b5);
+    color: black;
+    padding: 60px 20px;
+    text-align: center;
+    margin: auto;
+}
+.rice {
+    max-width: 960px;
+    margin: auto;
+    padding: 40px 20px;
+    background-color: aquamarine;
+    border-radius: 3px;
+    padding: 25px;
+    margin-bottom: 25px;
+    align-items: center;
+}
+section h2 {
+    margin-top: 0;
+    color: black;}
+    footer {
+        padding: 25px;
+        text-align: center;
+        background: chartreuse;
+        font-size: 1rem;
+    }
